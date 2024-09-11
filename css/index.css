@@ -1,21 +1,44 @@
-main {
-    width: 327px;
-    height: 500px;
-
+body {
+    width: 375px;
+    height: 812px;
+    align-items: center;
 }
 
 h2 {
+    margin-top: 60px;
     display: block;
+    margin-bottom: 20px;
 }
 
-input {
+input[type="email"]{
+    padding: 10px, 50px;
     display: block;
+    margin-bottom: 10px;
 }
 
 a {
+    padding-bottom: 15px;
+}
+
+button {
     display: block;
+    margin-bottom: 15px;
+    padding: 10px, 50px;
 }
 
 p {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+img{
+    display: inline-block;
+}
+
+.separado {
     display: block;
+}
+
+.junto {
+    display: inline-block;
 }

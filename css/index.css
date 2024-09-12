@@ -10,10 +10,20 @@ h2 {
     margin-bottom: 20px;
 }
 
-input[type="email"]{
-    padding: 10px, 50px;
-    display: block;
+input[type="email"] {
     margin-bottom: 10px;
+    display: block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+  
+input[type="password"] {
+    margin-bottom: 10px;    
+    display: block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
 }
 
 a {

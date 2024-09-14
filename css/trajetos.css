@@ -1,0 +1,100 @@
+body {
+    width: 100%;
+    max-width: 375px;
+    height: 812px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background-color: #007bff;
+}
+
+#tudo {
+    margin-top: 40px;
+    background-color: #FFF;
+    max-width: 375px;
+    max-height: 812px;
+}
+
+header {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+main {
+    margin-left: 35px;
+}
+
+p {
+    margin: 0px;
+}
+
+input[type="text"],
+input[type="datetime"] {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+button {
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #222C31;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.espaço {
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-right: 90px;
+}
+
+.junto {
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.separado {
+    display: block;
+}
+
+#map {
+    margin-left: 12px;
+    max-height: 260px;
+}
+
+#escolha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc; /* Borda da caixa */
+    padding: 10px; /* Espaçamento interno da caixa */
+    border-radius: 10px; /* Borda arredondada */
+    background-color: #f0f0f0; /* Cor de fundo da caixa */
+}

@@ -5,5 +5,5 @@ Esse repositório visa explicar e mostrar o processo da equipe “Quarteto Fant�
 
 ## Como funciona?
 
-O aplicativo fornece ao usuário duas opções distintas, criar destinos e horários para determinados locais, aos quais ficaram disponíveis para possíveis passageiros, nessa mesma aba o usuário fornece informações sobre a capacidade de passageiros e tem uma pré-visualização do ganho em RideTK, nome provisório da moeda do app.
+O aplicativo fornece ao usuário duas opções distintas, criar destinos e horários para determinados locais, aos quais ficaram disponíveis para possíveis passageiros, nessa mesma aba o usuário fornece informações sobre a capacidade de passageiros.
 Já a outra opção fornece ao usuário passageiro, visualizar possíveis motoristas que estejam por perto e seus trajetos, além do horário da viagem.

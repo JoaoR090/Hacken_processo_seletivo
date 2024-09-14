@@ -1,0 +1,68 @@
+body {
+    width: 100%;
+    max-width: 375px;
+    height: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background-color: #007bff;
+}
+
+#tudo {
+    margin-top: 20px;
+    background-color: #FFF;
+    max-width: 375px;
+    max-height: 812px;
+    height: 812px;
+    width: 812px;
+}
+
+header {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    margin-right: 90px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.junto {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    background-color: #607D8B;
+    margin-bottom: 20px;
+}
+
+#próximo {
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 300px;
+    padding-top: 10px;
+    margin-bottom: 25px;
+    background-color: #35454f;
+    color: #007bff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#próximo:hover {
+    background-color: rgb(0, 0, 0);
+}
